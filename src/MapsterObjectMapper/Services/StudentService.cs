@@ -14,9 +14,7 @@ namespace MapsterObjectMapper.Services
              {
                 new Student { StudentId=1, Name="Kalpesh", Email="satasiya.kalpesh2006@gmail.com", City="Ahmedabad" },
                 new Student { StudentId=2, Name="Ajay", Email="ajay123@gmail.com", City="Ahmedabad" },
-             };
-
-
+             };            
         }
     }
 }
